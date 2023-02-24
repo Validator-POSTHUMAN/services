@@ -13,6 +13,6 @@ Helping to save your money—isn't our main activity and it would divert our tec
 <details>
   <summary>Who is in charge of saving funds?</summary>
   
-  - [Albert Andrejev](https://github.com/albertandrejev)
-  - [Evgeniy Yakovishin](https://github.com/evgen3000)
+  - Albert Andrejev: [Github](https://github.com/albertandrejev) & [Telegram](https://t.me/Albert_OpenTech)
+  - Evgeniy Yakovishin: [Github](https://github.com/evgen3000) & [Telegram](https://t.me/lhavebeen)
   </details>
